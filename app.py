@@ -1,3 +1,4 @@
+%%writefile app.py
 import streamlit as st
 from tensorflow.keras.applications.mobilenet_v2 import MobileNetV2
 import numpy as np
