@@ -9,3 +9,4 @@ Use !pipreqs /content for getting requirements.txt
 
 1. Change Tensorflow to tensorflow-cpu
 2. Change opencv-python to opencv-contrib-python-headless
+3. Add h5py<3.0.0
